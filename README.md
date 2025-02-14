@@ -1,2 +1,2 @@
 # sundawn
-Websit-fronted Only
+Website-fronted Only
